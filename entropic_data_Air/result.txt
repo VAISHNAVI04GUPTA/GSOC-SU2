@@ -1,0 +1,14 @@
+Validation Results for Rbf Interpolation:
+Mean Absolute Error (MAE): 0.002967935571399183
+Mean Squared Error (MSE): 9.011998173391072e-06
+Root Mean Squared Error (RMSE): 0.003001999029545325
+
+Validation Results for Linear Interpolation:
+Mean Absolute Error (MAE): 0.13990764509407122
+Mean Squared Error (MSE): 0.1944451037075403
+Root Mean Squared Error (RMSE): 0.44095929937755063
+
+Validation Results for Cubic Interpolation:
+Mean Absolute Error (MAE): 0.037413549314521725
+Mean Squared Error (MSE): 0.032487708045510724
+Root Mean Squared Error (RMSE): 0.18024346880125983
