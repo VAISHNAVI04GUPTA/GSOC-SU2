@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/vaishnavi/test_pybind/build",
+  "command": "/usr/bin/c++   -isystem /home/vaishnavi/.local/lib/python3.8/site-packages/pybind11/include -isystem /usr/include/python3.8  -g   -o CMakeFiles/embed_python.dir/embed_python.cpp.o -c /home/vaishnavi/test_pybind/embed_python.cpp",
+  "file": "/home/vaishnavi/test_pybind/embed_python.cpp"
+}
+]
