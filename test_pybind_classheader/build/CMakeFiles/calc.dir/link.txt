@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -flto -shared  -o ../calc.cpython-38-x86_64-linux-gnu.so CMakeFiles/calc.dir/bindings.cpp.o CMakeFiles/calc.dir/calculation.cpp.o   -L/usr/lib/python3.8/config-3.8-x86_64-linux-gnu  -Wl,-rpath,/usr/lib/python3.8/config-3.8-x86_64-linux-gnu 

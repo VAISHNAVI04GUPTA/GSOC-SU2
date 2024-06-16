@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/vaishnavi/test_pybind/build",
+  "command": "/usr/bin/c++  -Dcalc_EXPORTS -isystem /usr/include/python3.8 -isystem /home/vaishnavi/.local/lib/python3.8/site-packages/pybind11/include  -g -fPIC -fvisibility=hidden   -std=gnu++14 -o CMakeFiles/calc.dir/bindings.cpp.o -c /home/vaishnavi/test_pybind/bindings.cpp",
+  "file": "/home/vaishnavi/test_pybind/bindings.cpp"
+},
+
+{
+  "directory": "/home/vaishnavi/test_pybind/build",
+  "command": "/usr/bin/c++  -Dcalc_EXPORTS -isystem /usr/include/python3.8 -isystem /home/vaishnavi/.local/lib/python3.8/site-packages/pybind11/include  -g -fPIC -fvisibility=hidden   -std=gnu++14 -o CMakeFiles/calc.dir/calculation.cpp.o -c /home/vaishnavi/test_pybind/calculation.cpp",
+  "file": "/home/vaishnavi/test_pybind/calculation.cpp"
+}
+]
