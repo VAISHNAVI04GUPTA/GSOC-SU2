@@ -4,15 +4,18 @@ import calc
 
 
 def factorial(a):
+    l=[]
     if not isinstance(a, int):
         raise TypeError("Expected an integer input")
     f=1
     for i in range(1,a):
-        f=f*i
+        if(a%i==0):
+            l.append(i)
 
 
-    return f
+    
+    return l[-1]
 
 ins3 = calc.Calculation()
 result=ins3.arithmetic(4,6,factorial)
-print("Factors are :",result)
+print("Highest factor:",result)
