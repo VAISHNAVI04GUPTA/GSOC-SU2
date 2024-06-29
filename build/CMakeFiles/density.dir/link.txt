@@ -1,1 +1,1 @@
-/usr/bin/c++ -fPIC  -flto -shared  -o ../density.cpython-38-x86_64-linux-gnu.so CMakeFiles/density.dir/bindings.cpp.o CMakeFiles/density.dir/testfluidmodel.cpp.o 
+/usr/bin/c++ -fPIC -g  -shared  -o ../density.cpython-38-x86_64-linux-gnu.so CMakeFiles/density.dir/bindings.cpp.o CMakeFiles/density.dir/testfluidmodel.cpp.o 
