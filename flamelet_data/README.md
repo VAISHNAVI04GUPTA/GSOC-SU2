@@ -62,12 +62,12 @@ Calculate the R-squared value for each output variable to quantify the fit betwe
 ### **9\. Generate R2 Plots**
 
 Create scatter plots of the interpolated temperatures against the reference temperatures. Add a line representing the ideal fit where interpolated values equal reference values. The plots visually show the correlation between the interpolated and reference values. You can also print the R-squared scores for all output variables.
-![plot](
+
 ### **Generated Plots**
 
 - **R2 Plot for Temperature**:
 
-Replace path_to_generated_plot.png with the actual path to your generated plot image.
+![plot](flamelet_data/R2_score_temp.png)
 
 ## **Conclusion**
 
