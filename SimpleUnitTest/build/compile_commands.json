@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/vaishnavi/GSOC/SimpleUnitTest/build",
+  "command": "/usr/bin/c++  -Ddensity_EXPORTS -isystem /home/vaishnavi/.local/include -isystem /usr/include/python3.8  -g -fPIC -fvisibility=hidden   -std=gnu++14 -o CMakeFiles/density.dir/bindings.cpp.o -c /home/vaishnavi/GSOC/SimpleUnitTest/bindings.cpp",
+  "file": "/home/vaishnavi/GSOC/SimpleUnitTest/bindings.cpp"
+},
+{
+  "directory": "/home/vaishnavi/GSOC/SimpleUnitTest/build",
+  "command": "/usr/bin/c++  -Ddensity_EXPORTS -isystem /home/vaishnavi/.local/include -isystem /usr/include/python3.8  -g -fPIC -fvisibility=hidden   -std=gnu++14 -o CMakeFiles/density.dir/testfluidmodel.cpp.o -c /home/vaishnavi/GSOC/SimpleUnitTest/testfluidmodel.cpp",
+  "file": "/home/vaishnavi/GSOC/SimpleUnitTest/testfluidmodel.cpp"
+}
+]
