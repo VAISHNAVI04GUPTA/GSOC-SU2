@@ -18,10 +18,11 @@ This repository contains a Python script that performs KDTree interpolation on a
 
 You can install the required packages using:
 
-```bash
+
 pip install numpy pandas scipy sci-kit-learn matplotlib
 
-## **Steps**
+
+## Steps
 
 ### **1\. Load the CSV Files**
 
