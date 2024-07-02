@@ -67,7 +67,7 @@ Create scatter plots of the interpolated temperatures against the reference temp
 
 - **R2 Plot for Temperature**:
 
-![plot](flamelet_data/R2_score_temp.png)
+![plot](R2_score_temp.png)
 
 ## **Conclusion**
 
